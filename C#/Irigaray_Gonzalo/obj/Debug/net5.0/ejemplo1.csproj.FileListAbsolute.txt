@@ -1,0 +1,16 @@
+C:\Users\Gonzalo\Desktop\C#\ejemplo1\obj\Debug\net5.0\ejemplo1.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\C#\ejemplo1\obj\Debug\net5.0\ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\C#\ejemplo1\obj\Debug\net5.0\ejemplo1.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\C#\ejemplo1\obj\Debug\net5.0\ejemplo1.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\C#\ejemplo1\obj\Debug\net5.0\ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\C#\ejemplo1\bin\Debug\net5.0\ejemplo1.exe
+C:\Users\Gonzalo\Desktop\C#\ejemplo1\bin\Debug\net5.0\ejemplo1.deps.json
+C:\Users\Gonzalo\Desktop\C#\ejemplo1\bin\Debug\net5.0\ejemplo1.runtimeconfig.json
+C:\Users\Gonzalo\Desktop\C#\ejemplo1\bin\Debug\net5.0\ejemplo1.runtimeconfig.dev.json
+C:\Users\Gonzalo\Desktop\C#\ejemplo1\bin\Debug\net5.0\ejemplo1.dll
+C:\Users\Gonzalo\Desktop\C#\ejemplo1\bin\Debug\net5.0\ref\ejemplo1.dll
+C:\Users\Gonzalo\Desktop\C#\ejemplo1\bin\Debug\net5.0\ejemplo1.pdb
+C:\Users\Gonzalo\Desktop\C#\ejemplo1\obj\Debug\net5.0\ejemplo1.dll
+C:\Users\Gonzalo\Desktop\C#\ejemplo1\obj\Debug\net5.0\ref\ejemplo1.dll
+C:\Users\Gonzalo\Desktop\C#\ejemplo1\obj\Debug\net5.0\ejemplo1.pdb
+C:\Users\Gonzalo\Desktop\C#\ejemplo1\obj\Debug\net5.0\ejemplo1.genruntimeconfig.cache

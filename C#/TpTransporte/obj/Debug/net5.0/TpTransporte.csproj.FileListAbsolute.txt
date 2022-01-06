@@ -1,0 +1,16 @@
+C:\Users\Gonzalo\Desktop\C#\TpTransporte\obj\Debug\net5.0\TpTransporte.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\C#\TpTransporte\obj\Debug\net5.0\TpTransporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\C#\TpTransporte\obj\Debug\net5.0\TpTransporte.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\C#\TpTransporte\obj\Debug\net5.0\TpTransporte.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\C#\TpTransporte\obj\Debug\net5.0\TpTransporte.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\C#\TpTransporte\bin\Debug\net5.0\TpTransporte.exe
+C:\Users\Gonzalo\Desktop\C#\TpTransporte\bin\Debug\net5.0\TpTransporte.deps.json
+C:\Users\Gonzalo\Desktop\C#\TpTransporte\bin\Debug\net5.0\TpTransporte.runtimeconfig.json
+C:\Users\Gonzalo\Desktop\C#\TpTransporte\bin\Debug\net5.0\TpTransporte.runtimeconfig.dev.json
+C:\Users\Gonzalo\Desktop\C#\TpTransporte\bin\Debug\net5.0\TpTransporte.dll
+C:\Users\Gonzalo\Desktop\C#\TpTransporte\bin\Debug\net5.0\ref\TpTransporte.dll
+C:\Users\Gonzalo\Desktop\C#\TpTransporte\bin\Debug\net5.0\TpTransporte.pdb
+C:\Users\Gonzalo\Desktop\C#\TpTransporte\obj\Debug\net5.0\TpTransporte.dll
+C:\Users\Gonzalo\Desktop\C#\TpTransporte\obj\Debug\net5.0\ref\TpTransporte.dll
+C:\Users\Gonzalo\Desktop\C#\TpTransporte\obj\Debug\net5.0\TpTransporte.pdb
+C:\Users\Gonzalo\Desktop\C#\TpTransporte\obj\Debug\net5.0\TpTransporte.genruntimeconfig.cache
